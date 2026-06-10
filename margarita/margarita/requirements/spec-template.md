@@ -4,3 +4,4 @@ BI Dashboard Requirements Template
 * Scope
 * Audince
 * Measures
+* Filters
