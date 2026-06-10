@@ -6,9 +6,10 @@ Welcome to the shared course repo. This is where all participants contribute the
 
 Add your name and role below when you complete the session 01 homework:
 
-| Name | Role | Session 01 PR |
-|------|------|---------------|
-| Ivan Tishchenko|BA | ✅ |
+| Name | Role | Session 01 PR | Email |
+|------|------|---------------|------|
+| Ivan Tishchenko|BA | ✅ |        |
+| Margarita Sakharova|BI | ✅ |m.sakharova@velvetech.dev|
 
 ## Structure
 
